@@ -1,0 +1,13 @@
+body{
+background-image: url('abcd.jpg');
+background-size: cover;
+font-family: 'Courier New', Courier, monospace;
+}
+
+span.psw {
+    float: right;
+    padding-top: 13px;
+  }
+
+
+  
